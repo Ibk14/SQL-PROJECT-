@@ -1,2 +1,2 @@
 # SQL-PROJECT-
-Postgre Sql
+EDA using Postgre Sql
