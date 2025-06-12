@@ -4,5 +4,4 @@ The database is designed to store and manage information about countries, cities
 
 SQL data and queries: https://github.com/Ibk14/SQL-PROJECT-/blob/main/World-Project.sql
 Data source: Kaggle.com
-Tools used: Postgre SQL (PgAdmin 4)
-![image](https://github.com/user-attachments/assets/e8584ad5-e07d-44c2-90e4-405216e33376)
+Tools used: Postgre SQL (PgAdmin 4) 
